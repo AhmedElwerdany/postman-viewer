@@ -1,0 +1,16 @@
+{
+  "name": "postman-viewer",
+  "version": "1.0.0",
+  "description": "watch your postman collection in a `Mr. Robot` way",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "yargs": "^17.4.1"
+  }
+}
